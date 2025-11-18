@@ -1,0 +1,14 @@
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\bin\Debug\Food App Bill Interface.exe.config
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\bin\Debug\Food App Bill Interface.exe
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\bin\Debug\Food App Bill Interface.pdb
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food App Bill Interface.csproj.AssemblyReference.cache
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food_App_Bill_Interface.Form1.resources
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food_App_Bill_Interface.Form2.resources
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food_App_Bill_Interface.Properties.Resources.resources
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food App Bill Interface.csproj.GenerateResource.cache
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food App Bill Interface.csproj.CoreCompileInputs.cache
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food App Bill Interface.exe
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food App Bill Interface.pdb
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food App Bill Interface.exe.config
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food_App_Bill_Interface.Form3.resources
+C:\Users\Buytoday.lk\Desktop\Food Bill\Food App Bill Interface\obj\Debug\Food_App_Bill_Interface.Form4.resources
